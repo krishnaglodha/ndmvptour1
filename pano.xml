@@ -20,7 +20,7 @@
       <hotspot id="Point01" skinid="ht_node" title="Entrance" pan="-2.86" target="" tilt="-4.95" description="" url="{node2}"/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -45,7 +45,7 @@
       <hotspot id="Point02" skinid="ht_node" title="Passage" pan="-5.03" target="" tilt="-5.66" description="" url="{node3}"/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -70,7 +70,7 @@
       <hotspot id="Point02" skinid="ht_node" title="Passage" pan="-1.95" target="-2.2/-1.9/70.0" tilt="-7.1" description="" url="{node4}"/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -96,7 +96,7 @@
       <hotspot id="Point03" skinid="ht_info" title="Seminar Hall" pan="-25.81" target="" tilt="-3.04" description="Seminar Hall for Large Group Discussion and Seminars" url=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -121,7 +121,7 @@
       <hotspot id="Point02" skinid="ht_node" title="Passage" pan="-185.78" target="-95.3/-7.8/70.0" tilt="-3.84" description="" url="{node4}"/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -146,7 +146,7 @@
       <hotspot id="Point02" skinid="ht_node" title="Passage" pan="-337.91" target="18.6/-2.0/70.0" tilt="-8.31" description="" url="{node7}"/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -173,7 +173,7 @@
       <hotspot id="Point04" skinid="ht_info" title="Interview Room" pan="-75.17" target="" tilt="-7.64" description="Personal Interview Room" url=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -198,7 +198,7 @@
       <hotspot id="Point02" skinid="ht_info" title="Group Discussion" pan="-337.07" target="" tilt="-18.35" description="Group Discussion hosting 30+ students at a time" url=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -224,7 +224,7 @@
       <hotspot id="Point03" skinid="ht_image" title="Computer Lab" pan="-8.67" target="" tilt="-11.86" description="Programming lab for live coding with 30 Hightech Computers" url=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
@@ -248,7 +248,7 @@
       <hotspot id="Point01" skinid="ht_node" title="Programming Lab" pan="-206.38" target="107.6/-18.8/70.0" tilt="-7.18" description="" url="{node9}"/>
     </hotspots>
     <media/>
-    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" enabled="1"/>
+    <transition softedge="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomin="2" blendtime="1" zoomout="2" enabled="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" lockedmouse="0" speedwheel="1" invertcontrol="1" invertwheel="0" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
